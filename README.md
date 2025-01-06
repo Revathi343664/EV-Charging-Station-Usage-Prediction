@@ -1,4 +1,6 @@
 EV Charging Station Occupancy Prediction
+
+
 🚀 Project Overview
 This project focuses on predicting the availability of electric vehicle (EV) charging stations using machine learning models. By analyzing charging session data, the goal is to optimize the management of EV infrastructure and provide users with real-time occupancy predictions. The project applies various classification algorithms, such as Decision Tree, Random Forest, and XGBoost, to achieve accurate predictions.
 
